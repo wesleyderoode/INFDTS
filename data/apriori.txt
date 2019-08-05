@@ -1,0 +1,4 @@
+bread   butter  sugar
+coffee  milk    sugar
+bread   coffee  milk    sugar
+coffee  milk
